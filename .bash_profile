@@ -1,11 +1,11 @@
-# composer alias
+# composer
 alias cu='composer update'
 alias csu='composer self-update'
 alias cda='composer dump-autoload'
 alias cr='composer require'
 
 
-# git alias
+# git
 alias gs='git status'
 alias gl='git log'
 alias gad='git add .'
@@ -17,8 +17,9 @@ alias gpom='git push origin master'
 alias gc='git checkout'
 alias gcb='git checkout -b'
 
-# laravel alias
+# laravel
 alias pa='php artisan'
+alias pams='php artisan migrate --seed'
 
 # docker alias
 alias dps='docker ps'

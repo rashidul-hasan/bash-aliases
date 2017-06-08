@@ -20,6 +20,7 @@ alias gcb='git checkout -b'
 # laravel
 alias pa='php artisan'
 alias pams='php artisan migrate --seed'
+alias pam='php artisan migrate'
 
 # docker alias
 alias dps='docker ps'
